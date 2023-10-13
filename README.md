@@ -109,6 +109,4 @@ If you'd like to contribute to FakeReviewSpamDetector, please follow our [contri
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
----
 
-Feel free to customize this README to include any additional information or specific instructions for your project. Make sure to replace placeholders like 'yourusername' with the appropriate details.
